@@ -58,3 +58,19 @@ When used as standalone statements, both pre-increment and post-increment increa
 ## Practical Implementation
 
 The arithmetic program combines addition, subtraction, multiplication, division, modulus, increment, and decrement operations.
+
+### Sample Output
+
+```text
+Enter First Number:6
+Enter Second Number:8
+Addition=14
+Subtraction=-2
+Multiplication=48
+Division=0.750000
+Modulo Division=6
+Enter a Number:8
+number is:8
+Increment of a number is:9
+Decrement of a number is:8
+```
